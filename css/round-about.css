@@ -16,6 +16,7 @@ body {
 
 .containerboard {
     background-color: darkred;
+    width: 100%;
 }
 
 #h3 {
