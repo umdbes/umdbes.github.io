@@ -28,6 +28,14 @@ body {
     
 }
 
-#h3 {
+.h3 {
     color: white;
+}
+
+#my-4 {
+    color: white;
+}
+
+.my-4 {
+    color: yellow;
 }
